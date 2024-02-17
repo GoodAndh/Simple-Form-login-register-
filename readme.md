@@ -1,8 +1,8 @@
-*(NOT DONE YET)*
+
 
 =======================================================
 
-    Projek pertama sederhana membuat Website online shop
+    Projek pertama sederhana membuat Website form Login/Register
 
 
 =======================================================
